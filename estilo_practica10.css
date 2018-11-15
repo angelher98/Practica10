@@ -1,0 +1,78 @@
+body {
+    background-image: url("img/pattern.png");
+}
+
+body.fotos {
+    background-color: white;
+}
+
+h1 {
+    font-size: 135%;
+    font-family: tahoma;
+    color: blue;
+    text-align: center;
+    
+}
+
+
+
+mark {
+    background-color: white;
+}
+
+nav{
+    background-color:#F7FE2E;
+    margin-left: 200px;
+    border: black 4px solid;
+    margin-right: 200px;
+    margin-top:10px;
+    margin-bottom:0px;
+    word-spacing: 30px;
+    
+    
+}
+
+main {
+    background-color:lightblue;
+    margin-left: 200px;
+    border: blue 6px solid;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-top:0px;
+    margin-bottom:80px;
+ 
+}
+main.creditos {
+    background-color:rgb(179, 9, 9);
+    margin-left: 200px;
+    border: blue 6px solid;
+    border-radius: 20px;
+    margin-right: 650px;
+    margin-top:0px;
+    margin-bottom:80px;
+}
+
+aside {
+    
+    margin-top:70px;
+    margin-right: 80px;
+    float: right;
+    text-align: right;
+
+
+}
+
+object.videoyoutube {
+    text-align: center;
+    margin-left: 500px;
+}
+img.correcion {
+    transform: rotate(-90deg)
+}
+footer {
+    text-align:center;
+    color: white;
+    font-family: verdana;
+    font-style: oblique;
+
+}
